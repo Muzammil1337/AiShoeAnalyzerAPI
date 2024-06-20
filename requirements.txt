@@ -11,7 +11,7 @@ tensorflow-estimator==2.12.0
 tensorflow-intel==0.0.1
 cloudinary==1.38.0
 mpmath==1.3.0
-torch==2.1.0
+torch==2.2.0
 torchkeras==3.9.5
 torchvision==0.16.0
 pandas==2.0.2
