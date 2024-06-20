@@ -13,7 +13,7 @@ cloudinary==1.38.0
 mpmath==1.3.0
 torch==2.2.0
 torchkeras==3.9.5
-torchvision==0.16.0
+torchvision==0.17.0
 pandas==2.0.2
 numpy==1.23.5
 pillow==10.3.0
